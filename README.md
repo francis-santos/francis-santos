@@ -1,20 +1,22 @@
 # Francis G. Santos 
 :computer: :heavy_plus_sign: :headphones: :heavy_plus_sign: :vibration_mode: :heavy_plus_sign: :soccer: :heavy_plus_sign: :video_game: :heavy_plus_sign: :clapper: :heavy_plus_sign: :coffee:
 
-**Hello, welcome to my profile**
+**Hello, welcome to my profile.**
 
 My name is Francis and I'm full-stack developer.
-- :computer: I'm currently working with Laravel, VueJS and JAVA;
-- :dart: I'm currently learning more about flutter;
+
+- :computer: I'm currently working with **Laravel, VueJS and JAVA**;
+- :dart: I'm currently learning more about **Flutter**;
 - :book:  I'm currently majoring in Systems Analysis;
 - :soccer: My hobbies are playing football and video games :video_game:;
+
 ### Languages
 
-![PHP](https://progress-bar.dev/75/?title=PHP)
-![Javascript](https://progress-bar.dev/80/?title=Javascript)
-![JAVA](https://progress-bar.dev/50/?title=JAVA)
-![Dart](https://progress-bar.dev/60/?title=Dart)
-![C++](https://progress-bar.dev/30/?title=C++)
+![PHP](https://progress-bar.dev/75/?title=PHP) 
+![Javascript](https://progress-bar.dev/80/?title=Javascript) 
+![JAVA](https://progress-bar.dev/50/?title=JAVA) 
+![Dart](https://progress-bar.dev/60/?title=Dart)      
+![CPlusPlus](https://progress-bar.dev/30/?title=CPlusPlus)  
 
 ### Frameworks
 
