@@ -15,7 +15,7 @@ My name is Francis and I'm full-stack developer.
 ![PHP](https://progress-bar.dev/75/?title=PHP) 
 ![Javascript](https://progress-bar.dev/80/?title=Javascript) 
 ![JAVA](https://progress-bar.dev/50/?title=JAVA) 
-![Dart](https://progress-bar.dev/60/?title=Dart)      
+![Dart](https://progress-bar.dev/60/?title=Dart) 
 ![CPlusPlus](https://progress-bar.dev/30/?title=CPlusPlus)  
 
 ### Frameworks
