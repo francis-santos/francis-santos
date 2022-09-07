@@ -5,15 +5,17 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=francis-santos.francis-santos)
 ![GitHub followers](https://img.shields.io/github/followers/francis-santos?label=Follow&style=social)
 <br/>
-![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white "Java Badge")
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white "Kotlin Badge")
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white "Java Badge")
 ![PHP Badge](http://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white "PHP Badge")
 ![Javascript Badge](http://img.shields.io/badge/-Javascript-EFCE2B?style=flat-square&logo=javascript&logoColor=white "Javascript Badge")
 ![Dart Badge](http://img.shields.io/badge/-Dart-2BB6F6?style=flat-square&logo=dart&logoColor=white "Dart Badge")
  :repeat: 
 ![Laravel Badge](http://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white "Laravel Badge")
-![Vuetify Badge](http://img.shields.io/badge/-Vuetify-1867BF?style=flat-square&logo=vuetify&logoColor=white "Vuetify Badge")
+![VueJS Badge](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D "VueJS Badge")
 ![Flutter Badge](http://img.shields.io/badge/-Flutter-1EBBFD?style=flat-square&logo=flutter&logoColor=white "Flutter Badge")
-
+:repeat: 
+![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white "Android Badge")
 
 [![Francis Github Status](https://github-readme-stats.vercel.app/api?username=francis-santos&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
@@ -22,15 +24,16 @@
 
 My name is Francis and I'm full-stack developer.
 
-- :computer: I'm currently working with **Laravel, VueJS and JAVA**;
-- :dart: I'm currently learning more about **Flutter**;
-- :book:  I'm currently majoring in Systems Analysis;
-- :soccer: My hobbies are playing football and video games :video_game:;
+- :computer: I'm currently working with **Laravel, VueJS and Kotlin**;
+- :dart: I'm currently learning more about **Clean Code** and **Clean Arch**;
+- :book:  Graduated in Systems Analysis and Development;
+- :soccer: My hobbies are playing soccer and video games :video_game:;
 
 ### Languages
 
 ![PHP](https://progress-bar.dev/75/?title=PHP) 
 ![Javascript](https://progress-bar.dev/80/?title=Javascript) 
+![Kotlin](https://progress-bar.dev/80/?title=Kotlin) 
 ![JAVA](https://progress-bar.dev/50/?title=JAVA) 
 ![Dart](https://progress-bar.dev/60/?title=Dart) 
 ![CPlusPlus](https://progress-bar.dev/30/?title=CPlusPlus)  
